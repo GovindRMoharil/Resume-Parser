@@ -26,5 +26,3 @@ With our project, users have the flexibility to choose between the straightforwa
 By providing these two methods, we aim to cater to a wide range of users, from those seeking a quick and efficient parsing solution to those who require in-depth analysis and extraction. Whether you're a recruiter, HR professional, or data enthusiast, our resume parsing tool offers the versatility and accuracy you need to streamline your resume processing workflow.
 
 Explore our project on GitHub to access the code and documentation, and start leveraging the power of resume parsing using the method that best suits your requirements. Simplify your resume processing tasks and unlock the potential of automated data extraction for enhanced efficiency and productivity.
-
-# Note: Don't forget to check out our comprehensive guide on building a resume parser using SpaCy, which provides detailed insights and instructions for implementing the parser effectively.
